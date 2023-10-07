@@ -5,21 +5,21 @@ This program extracts relations from user stories.
 A text file containing user stories, one on each line. 
 
 # Output
-An excel file (output_cme.xlsx) containing extracted relations and the insights about reduction and coverage made. The file presents the data under the following columns:
-S.No.	
-User Story	
-Relations	
-#Relationships - Original Set	
-Relationships - Reduced Set 1	
-Relationships - Reduced Set 2	
-Reduction	# of tokens in user story	
-#of tokens covered by relations (excluding stopword tokens)	
-#of stopword tokens in user story	Coverage	Remarks
+An excel file (output_cme.xlsx) containing extracted relations and the insights about reduction and coverage made. The file presents the data under the following columns:<br>
+S.No.	<br>
+User Story	<br>
+Relations	<br>
+#Relationships - Original Set	<br>
+Relationships - Reduced Set 1	<br>
+Relationships - Reduced Set 2	<br>
+Reduction	# of tokens in user story	<br>
+#of tokens covered by relations (excluding stopword tokens)	<br>
+#of stopword tokens in user story	Coverage	Remarks <br>
 
 # Dependencies
-Java: openjdk version "17.0.3" 2022-04-19, OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7)
-StanfordCoreNLP: stanford-corenlp-4.5.4 
-ApachePOI: poi-bin-5.2.3
+<b>Java:</b> openjdk version "17.0.3" 2022-04-19, OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7) <br>
+<b>StanfordCoreNLP:</b> stanford-corenlp-4.5.4 <br>
+<b>ApachePOI:</b> poi-bin-5.2.3 <br>
 
 # Executing the program
 # Command Line
