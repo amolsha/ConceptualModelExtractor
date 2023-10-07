@@ -1,0 +1,389 @@
+As a cashier, I want financial operations to be logged by the system, so that I can track operations.
+As a cashier, I want to display tabs of a table, so that I can continue with the payment.
+As a cashier, I want to divide the tab into specified amounts, so that I can help customers who pay by going Dutch.
+As a cashier, I want to initiate pos payment automatically, so that I can work more swiftly.
+As a chef, I want to add new dishes.
+As a chef, I want to check the available amount ingredients.
+As a chef, I want to check the due dates of ingredients so that I can keep them fresh.
+As a Chef, I want to choose missing ingredients.
+As a chef, I want to create a list of backup food so that I can see the ingredients in the restaurant.
+As a chef, I want to create dishes so that I can follow customer comments.
+As a chef, I want to create menu so that customers can order.
+As a chef, I want to create status for dishes so that waiters can follow better.
+As a chef, I want to delete expiry dates
+As a chef, I want to enter the ingredient amounts that need to be purchased.
+As a chef, I want to enter the ingredients of the menu items.
+As a chef, I want to keep due dates of ingredients so that I can use them before the due date.
+As a chef, I want to know customer orders so that I can prepare ordered food.
+As a chef, I want to mark the used ingredient amounts.
+As a chef, I want to renew the list of backup food.
+As a chef, I want to see expiry dates so that I can choose ingredients.
+As a chef, I want to see ordered items.
+As a chef, I want to see the available ingredient amounts.
+As a chef, I want to see the feedbacks.
+As a chef, I want to see the items that the restaurant is below a threshold due to lack of ingredients.
+As a chef, I want to see the list of backup food so that I can order them if needed.
+As a chef, I want to see the seasonal ingredients so that I can built a menu for every season.
+As a chef, I want to see the updated of ordered items that are updated by waiters.
+As a chef, I want to update allergy list.
+As a chef, I want to update dishes.
+As a chef, I want to update expiry dates
+As a chef, I want to update status of ordered items as can be served.
+As a chef, I want to update status of ordered items as received.
+As a chef, I want to update the allergy warnings of menu items.
+As a chef, I want to update the ingredients of the menu items.
+As a chef, I want to update the status of menu items as “out of”.
+As a chef, I want to write ingredients so that I can give allergy information.
+As a cook, I want to be able to edit customer orders.
+As a cook, I want to be able to edit products availability so that the right data is in the system.
+As a cook, I want to be able to edit store orders.
+As a cook, I want to create new customer orders.
+As a cook, I want to create new menu items, so that Waiter can inform customers.
+As a cook, I want to display stock information, so that I can decide on restocking.
+As a cook, I want to generate reports every week and month.
+As a cook, I want to have a restaurant management system software so that I can manage primary operations.
+As a cook, I want to have employee data on the system including clock in and out information.
+As a cook, I want to inform waiters after food is ready, so that Waiter can serve the food.
+As a cook, I want to keep track of customers orders so that I can prepare their food.
+As a cook, I want to keep track of products available so that I can create a menu from those products.
+As a cook, I want to keep track of store orders so that I can schedule orders.
+As a cook, I want to mark items unavailable, so that Waiter can inform customers.
+As a cook, I want to mark unavailable items available, so that Waiter can inform customers.
+As a cook, I want to see new orders, so that I can start preparing the food.
+As a cook, I want to see stored inventory information so that I can prepare the menu.
+As a cook, I want to specify an ingredient list for food, so that Waiter can inform customers.
+As a cook, I want to specify estimated cook time for items, so that customers are informed before the order.
+As a cook, I want to specify stock amount thresholds, so that I am informed of a shortage of items.
+As a cook, I want to view reports on customer orders so that I can change my menu according to that.
+As a cook, I want to view reports on product storage data.
+As a costumer, I want to rate the orders.
+As a customer of restaurant, I want to keep records of my orders by restaurant, so that I don't struggle with details.
+As a customer, I want to be able to pay the bill partially
+As a customer, I want to check allergy list.
+As a customer, I want to complain.
+As a customer, I want to get translated.
+As a customer, I want to give comments about dishes.
+As a customer, I want to make payment.
+As a customer, I want to make reservation.
+As a customer, I want to make reservations.
+As a customer, I want to remove ingredients.
+As a customer, I want to see a allergy list.
+As a customer, I want to see available foods and drinks through a screen so that I can select the ones that I prefered.
+As a customer, I want to see ingredients of dishes.
+As a customer, I want to see menu.
+As a customer, I want to see my favorite foods from the screen, so that I can quickly order the food that I preferred before.
+As a customer, I want to see my total bill information
+As a customer, I want to see new dishes so that I can try new flavors.
+As a customer, I want to see the expiry dates.
+As a customer, I want to see the most preferred items so that I can order restaurants' favorite meals.
+As a customer, I want to update my comments
+As a customer, I want to update my orders through the screen, so that I can get a quick and correct service.
+As a management user, I want to get the daily order numbers of the waiters as a report so that I can know Is there a backlog on a certain employee.
+As a management user, I want to list all current orders so that I can see the current status.
+As a management user, I want to see orders that have received complaints about delivery time.
+As a management user, I want to see the arrival and departure times of the employees.
+As a management user, I want to see the number of orders and turnover a week ago.
+As a management user, I want to see the number of orders by neighborhood.
+As a management user, I want to see the number of orders per month.
+As a management user, I want to see the stock of the inventory in the restaurant.
+As a management user, I want to view available table count so that I can arrange reservations.
+As a management user, I want to view total tips daily so that I can calculate employees' pay correctly.
+As a manager I want to see the fullness of restaurant.
+As a manager I want to see the order wait time of customers reports.
+As a manager, I want shift timestamps to be logged by the system, so that I can navigate payments and performance assessments of my employees.
+As a manager, I want to add a store order.
+As a manager, I want to add items to the menu so that I will be able to enrich the menu content whenever I want.
+As a manager, I want to add resources so that I will be able to track the new resources.
+As a manager, I want to adjust the list of the most frequently ordered food of the month.
+As a manager, I want to be able to edit customer orders.
+As a manager, I want to be able to edit store orders.
+As a manager, I want to change prices.
+As a manager, I want to change shifts of employees
+As a manager, I want to change the item list.
+As a manager, I want to change the menu when necessary.
+As a manager, I want to change the price of items so that I can apply discounts.
+As a manager, I want to change the workers work time.
+As a manager, I want to check the cost of ingredients so that I can decide the price of meal.
+As a manager, I want to check the workers work time.
+As a manager, I want to compare monthly sales.
+As a manager, I want to create a menu so that customers can display the products
+As a manager, I want to create a new menu, so that I can choose food to serve the customer.
+As a manager, I want to create a purchase list, so that I can order the missing ingredients of each days menu.
+As a manager, I want to create a table for workers work time.
+As a manager, I want to create a working schedule of all waiters.
+As a manager, I want to create an order
+As a manager, I want to create coupons so that I can deliver them to my customers.
+As a manager, I want to create employee data so that I can register a new employee
+As a manager, I want to create inventory list so that i can add new items.
+As a manager, I want to create new employee profiles, so that new employees can use the system.
+As a manager, I want to delete a store order.
+As a manager, I want to delete an employee data so that I can keep my employee list up-to-date
+As a manager, I want to delete an order
+As a manager, I want to delete items in inventory list.
+As a manager, I want to delete the list of backup food.
+As a manager, I want to delete the list of the most frequently ordered food of the month.
+As a manager, I want to delete the menu
+As a manager, I want to delete the workers work time.
+As a manager, I want to design the menu.
+As a manager, I want to display employee data so that I can display their arrival time.
+As a manager, I want to display orders by date.
+As a manager, I want to display the stock of products so that I can track of my inventory
+As a manager, I want to display total sales by date
+As a manager, I want to edit a store order.
+As a manager, I want to edit clock in and out information of employees.
+As a manager, I want to edit contact information of employees.
+As a manager, I want to edit employee details, so that I can.
+As a manager, I want to edit employee shifts.
+As a manager, I want to edit employees' shift information
+As a manager, I want to edit items and employee information.
+As a manager, I want to edit prices of the menu.
+As a manager, I want to edit the menu so that I can delete the missing products from there.
+As a manager, I want to edit the menu so that the best selling items will remain in the menu.
+As a manager, I want to edit the menu, so that I can choose food to serve the customer.
+As a manager, I want to enter clock in and out information of employees.
+As a manager, I want to examine the spending ratio of products.
+As a manager, I want to generate daily occupancy reports, so that I can promote offers for low occupancy days of the week.
+As a manager, I want to generate report of clock in and out information of employees, so that I can understand the shift more clearly.
+As a manager, I want to generate reports every week and month.
+As a manager, I want to generate reports so that I can examine the sales
+As a manager, I want to generate reports so that I can track my business’ progress.
+As a manager, I want to generate reports.
+As a manager, I want to have a restaurant management system software so that I can manage primary operations.
+As a manager, I want to have employee data on the system including clock in and out information.
+As a manager, I want to keep track of customers orders so that I can do different calculations.
+As a manager, I want to keep track of products available so that I can manage inventory.
+As a manager, I want to keep track of resources available so that I can manage inventory.
+As a manager, I want to keep track of store orders so that I can do different calculations.
+As a manager, I want to know about products and resources so that I can make sure to order necessary products and resources on time.
+As a manager, I want to know employee information so that I can determine which employees will work on which days.
+As a manager, I want to know how many tables are being served at a given time so that I know the number of available seats in the restaurant.
+As a manager, I want to know the total number of orders per product so that I can make further investments on specific products.
+As a manager, I want to know the total sales and total profit so that I can determine the salaries of all employees.
+As a manager, I want to list requests from other stores, so that I can help them if necessary.
+As a manager, I want to read an employee data
+As a manager, I want to read an order
+As a manager, I want to read the clock in report, so that I can talk with employees about their performance.
+As a manager, I want to register a new employee so that I can track my staff from the system.
+As a manager, I want to remove resources so that I won’t track the resources I won’t have anymore.
+As a manager, I want to reply customers.
+As a manager, I want to save the menu each month.
+As a manager, I want to see a graph of each items ordered historically so that I can determine the trends.
+As a manager, I want to see clock in and out information of employees, so that I can check who is working less.
+As a manager, I want to see clock in and out information of employees.
+As a manager, I want to see comments about dishes.
+As a manager, I want to see contact information of employees.
+As a manager, I want to see employee expenses.
+As a manager, I want to see employee list.
+As a manager, I want to see historic daily total sales information
+As a manager, I want to see orders.
+As a manager, I want to see our top-selling menu items, so that I can focus on offering the right products.
+As a manager, I want to see prices of the products.
+As a manager, I want to see stored inventory information so that I can double check if we have everything on the menu.
+As a manager, I want to see the amount of products in stock.
+As a manager, I want to see the average customer count.
+As a manager, I want to see the churn rate, so that I can improve the restaurant.
+As a manager, I want to see the cost of ingredients so that I can change my supplier if needed.
+As a manager, I want to see the current available items in our inventory so that I can order necessary ones from suppliers.
+As a manager, I want to see the current dates and total sales
+As a manager, I want to see the current stock
+As a manager, I want to see the customer satisfaction ratio.
+As a manager, I want to see the daily customer average, so that I can adjust optimal employees for the day.
+As a manager, I want to see the estimated remaining time for products in the storage.
+As a manager, I want to see the ingredient storage so that I can know which products are not available.
+As a manager, I want to see the inventory list so that I can make a purchase list.
+As a manager, I want to see the list of backup food.
+As a manager, I want to see the list of reservations of whole week so that I can revert back to customers correctly.
+As a manager, I want to see the list of the most frequently ordered food of the month so that I can increase the stock of the ingredient in the food.
+As a manager, I want to see the list of the most frequently ordered food of the month.
+As a manager, I want to see the net profit of the mounth.
+As a manager, I want to see the number of orders taken by each waiter on daily basis so that I can measure the performance of employees.
+As a manager, I want to see the order count.
+As a manager, I want to see the remaining items.
+As a manager, I want to see the time of entrance of employees so that I can track the shifts.
+As a manager, I want to see the total profit and total loss at the end of the day.
+As a manager, I want to see the total tips so that I can distribute accordingly to the employees.
+As a manager, I want to see the working hours of each employee so that I can pay each employee accordingly.
+As a manager, I want to see the working schedule of all waiters.
+As a manager, I want to see unfulfilled orders
+As a manager, I want to see what has been ordered during the day so that I can see how the restaurant performing.
+As a manager, I want to store orders so that I can calculate total sales.
+As a manager, I want to temporarily remove items from the menu so that users won’t be able to order out of stock items.
+As a manager, I want to track the employee data so that I can determine which employee will earn how much money depending on his/her working hours.
+As a manager, I want to track the employee data so that I can improve the quality of working.
+As a manager, I want to track the expenses of the restaurant so that I will be able to track my investment.
+As a manager, I want to track which employees sell the most number of products so that I can increase their salary.
+As a manager, I want to update an order so that I can change the order items.
+As a manager, I want to update employee data so that I can keep their information up-to-date
+As a manager, I want to update items in inventory list.
+As a manager, I want to update the inventory list so that I can fix problems in the list
+As a manager, I want to update the list of backup food.
+As a manager, I want to update the menu so that I can decide which items are available
+As a manager, I want to update the online menu.
+As a manager, I want to view reports on customer orders so that I can pinpoint recurring orders.
+As a manager, I want to view reports on employee data.
+As a manager, I want to view reports on product storage data.
+As a procurement manager, I want to see the available ingredient amounts.
+As a restaurant employee user, I want to list the total number of times customers sit at the table so that I can infer when the table will be available.
+As a restaurant employee user, I want to see all active orders in order by order start date so that I can prioritize long-awaited orders.
+As a restaurant employee, I want to check product availability so that I can inform customers.
+As a restaurant employee, I want to edit items.
+As a restaurant employee, I want to get a notification when an order is canceled so that I can track the reason quickly.
+As a restaurant employee, I want to get a notification when the biggest order of the day arrives so that I can motivate other employees.
+As a restaurant employee, I want to keep track of customer orders.
+As a restaurant employee, I want to log orders instantaneously so that kitchen can start to prepare the food.
+As a restaurant employee, I want to receive a notification message when the customer places an order.
+As a restaurant employee, I want to receive a warning from the system when the required material stock for the 10 most ordered menu items falls below 30% so that I can avoid being out of stock.
+As a restaurant employee, I want to see active orders.
+As a restaurant employee, I want to see my monthly performance, so that I can request bonus.
+As a restaurant manager, I want to check the most frequently ordered food of the month.
+As a restaurant manager, I want to create a list of backup foods so that I can deploy them quickly.
+As a restaurant manager, I want to create a list of the most frequently ordered food of the month.
+As a restaurant manager, I want to create, monitor and delegate tasks to workers to increase labor management efficiency.
+As a restaurant manager, I want to delete the most frequently ordered food in each month so that I can check for the new menus.
+As a restaurant manager, I want to enter selling price of menu items.
+As a restaurant manager, I want to get report of daily total sales.
+As a restaurant manager, I want to keep track of occupancy, so that I can think about customer satisfaction.
+As a restaurant manager, I want to know inventory details.
+As a restaurant manager, I want to know number of orders for each day.
+As a restaurant manager, I want to know organized menu items.
+As a restaurant manager, I want to know total sales.
+As a restaurant manager, I want to mark a bill as paid.
+As a restaurant manager, I want to organize menu items depending on stored inventory to increase menu efficiency.
+As a restaurant manager, I want to see and manage customer orders to calculate total sales.
+As a restaurant manager, I want to see cost of menu items.
+As a restaurant manager, I want to see employee information and generate performance reports to manage workforce.
+As a restaurant manager, I want to see employee informations.
+As a restaurant manager, I want to see employees' service time, so that I can analyse performance.
+As a restaurant manager, I want to see monthly reports.
+As a restaurant manager, I want to see the cost of ingredients.
+As a restaurant manager, I want to see total number of different drinks, so that I can see popularity.
+As a restaurant manager, I want to see total number of different foods, so that I can see popularity.
+As a restaurant manager, I want to see weekly reports.
+As a restaurant manager, I want to track employee check in information to track down working hours to improve labor management efficiency.
+As a restaurant manager, I want to track products to be used to improve inventory management efficiency.
+As a restaurant manager,I want to see anual reports.
+As a restaurant owner, I want to know the profit margin of each menu item, so that I know which food drives the profitability most.
+As a restaurant owner, I want to report the total working hours daily and monthly so that I can arrange their salaries.
+As a server, I want to have a restaurant management system software so that I can manage primary operations.
+As a server, I want to have employee data on the system including clock in and out information.
+As a system developer, I want to know where inventory information are stored in database.
+As a waiter, I want the system to mark unavailable items on the menu, so that I can inform customers.
+As a waiter, I want to add new orders so that chef can start cooking.
+As a waiter, I want to add notes to order.
+As a waiter, I want to check the orders in a time order.
+As a waiter, I want to check the reservation for each table so that I can assist the customers.
+As a waiter, I want to clean the reservation for each table.
+As a waiter, I want to clean the track of the order
+As a waiter, I want to clean the waiting time of the table.
+As a waiter, I want to clear the list of waiting time of the tables so that I can focus on other tables.
+As a waiter, I want to create customer orders so that I can tell the chef.
+As a waiter, I want to create the reservation for each table.
+As a waiter, I want to delete customers when the payment is complete
+As a waiter, I want to deselect order items.
+As a waiter, I want to display available items, so that I can inform customers.
+As a waiter, I want to display each table's tab, so that I can inform customers.
+As a waiter, I want to display order status for each order item, so that I can inform customers.
+As a waiter, I want to display the ingredients list of items, so that I can inform customers.
+As a waiter, I want to display the menu, so that I can inform customers.
+As a waiter, I want to display the stock status of items, so that I can inform customers.
+As a waiter, I want to edit orders, so that we can correct changed orders.
+As a waiter, I want to enter order details to the system so that I can keep track of what has been ordered.
+As a waiter, I want to enter quantity of order items.
+As a waiter, I want to extract bills for ordered foods and drinks so that I can charge customers accordingly.
+As a waiter, I want to get notifications when an ordered item is ready.
+As a waiter, I want to keep the waiting time of the table.
+As a waiter, I want to make check in and out so that I can be paid with respect to my working hours.
+As a waiter, I want to modify customer orders.
+As a waiter, I want to modify orders.
+As a waiter, I want to renew the customer orders so that I can tell the chef new orders.
+As a waiter, I want to see allergy warnings of order items.
+As a waiter, I want to see availability of the order items.
+As a waiter, I want to see customers.
+As a waiter, I want to see ingredients of order items.
+As a waiter, I want to see sales price of order items.
+As a waiter, I want to see the orders .
+As a waiter, I want to see the prepared food so that I can bring them to customers.
+As a waiter, I want to see the reservation for each table.
+As a waiter, I want to see the track of the order.
+As a waiter, I want to see the waiting time of the tables so that I can keep track of the orders.
+As a waiter, I want to see total ordered items.
+As a waiter, I want to see total preparation durations of order items.
+As a waiter, I want to select order items.
+As a waiter, I want to take orders, so that the cook can start preparing the food.
+As a waiter, I want to talk directly to other waiters.
+As a waiter, I want to update quantity of ordered items.
+As a waiter, I want to update the reservation for each table.
+As a waiter, I want to update the track of the order.
+As a waiter, I want to update the waiting time of the table.
+As a waiter, I want to view menu groups.
+As a waiter, I want to view menu.
+As a waiter, I want to view order items under menu groups.
+As an employee, I want to add a customer order.
+As an employee, I want to add a new information about myself to the my employee data
+As an employee, I want to add a store order.
+As an employee, I want to add comments for each order so that I can inform the restaurant owner for the thoughts of customers about the products in menu.
+As an employee, I want to add menu items so that I can show the meal which is a new product to the food store.
+As an employee, I want to add my contact information.
+As an employee, I want to apply discounts to customers, so that customers visit the restaurant again.
+As an employee, I want to change customer orders so that I can change the meal in case of a change of mind of the customer.
+As an employee, I want to change orders of a table.
+As an employee, I want to change the amount of resources so that my manager always tracks the right amount of resources.
+As an employee, I want to create a table in the system so that I can enter orders of customers.
+As an employee, I want to delete a customer order.
+As an employee, I want to delete a store order.
+As an employee, I want to delete orders so that I will be able to help customers that order wrong meals.
+As an employee, I want to edit a customer order.
+As an employee, I want to edit a store order.
+As an employee, I want to edit my contact information.
+As an employee, I want to edit the menu so that I can delete the missing products from there.
+As an employee, I want to enter customer reviews to the system with their consents.
+As an employee, I want to enter notes to orders.
+As an employee, I want to generate report of clock in and out information of myself.
+As an employee, I want to generate reports.
+As an employee, I want to know the customer orders and best selling products so that I can suggest these products to them when they are indecisive to choose a product.
+As an employee, I want to know which menu items are available, so that I can inform customers.
+As an employee, I want to mark the entry time.
+As an employee, I want to mark the order as completed.
+As an employee, I want to read customer orders list, so that I can make preparation.
+As an employee, I want to read the clock in report, so that I can check if the report is correct for my self.
+As an employee, I want to read the menu
+As an employee, I want to record a customer with name.
+As an employee, I want to request changes in clock in and out times, so that I can adjust them.
+As an employee, I want to reserve the table based on their numbers so that I can arrange the reservations and learn available seats.
+As an employee, I want to see accompaniment suggestions based on users’ selection, so I can promote upselling.
+As an employee, I want to see all customer orders.
+As an employee, I want to see all store orders.
+As an employee, I want to see contents of drinks.
+As an employee, I want to see contents of foods.
+As an employee, I want to see customer requests in order, so that I can deal with them one by one.
+As an employee, I want to see customers' order status so that I can follow up before a delay happens.
+As an employee, I want to see my clock-in time reports.
+As an employee, I want to see my shift information
+As an employee, I want to see orderable menu items
+As an employee, I want to see prices of the ordered foods by customers.
+As an employee, I want to see reservations, so that I won't give reserved tables to other customers.
+As an employee, I want to see table orders from the system.
+As an employee, I want to see the amount of products in stock.
+As an employee, I want to see the checks of the tables.
+As an employee, I want to see the current stock.
+As an employee, I want to see the customer orders screen, so that I can track of customer orders.
+As an employee, I want to see the customer orders.
+As an employee, I want to see the food order in queue of order.
+As an employee, I want to see the inventory list, so that I can prepare today's menu.
+As an employee, I want to see the remaining annual leave permit.
+As an employee, I want to see the time of orders when they are received.
+As an employee, I want to see the total queue of orders with table numbers with time ordered.
+As an employee, I want to see unfulfilled orders
+As an employee, I want to track the current orders so that I can prepare them.
+As an employee, I want to track the stock of resources so that the restaurant always maintains stock.
+As an employee, I want to track the stock so that I can report it to the manager.
+As an employee, I want to update customer order list, so that I can delete the finished orders from the list.
+As an employee, I want to update my employee data to keep my information up-to-date
+As an owner, I want to edit the employee data in terms of clock in and out, so that I can fix the date in case of any mistake.
+As an owner, I want to get the report of total sales of items in the menu so that I can offer a discount for the products which do not have the anticipated interest from the customer.
+As an owner, I want to get the report of total sales of items in the menu, so that I can arrange the sale of the  required materials in advance.
+As an owner, I want to see comments of employees for each order so that I can learn comments of customers about the products in menu.
+As an owner, I want to see our top selling menu items, so that I can focus on offering right products.
+As an owner, I want to see the available materials in the depot so that I can make the required orders for the materials.
+As an owner, I want to see the consumption rates of the foods based on the past orders so I can make the order for these foods in advance.
+As an owner, I want to see total sales daily bases, so that I can learn how much sales restaurant made.
