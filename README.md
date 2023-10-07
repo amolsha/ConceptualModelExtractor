@@ -16,11 +16,11 @@ Reduction	# of tokens in user story	<br>
 #of tokens covered by relations (excluding stopword tokens)	<br>
 #of stopword tokens in user story	Coverage	Remarks <br>
 
-#DataSets
+# DataSets
 <b>Library Management System (LMS): </b>US_LMS.txt<br>
 <b>Restaurant Management System (RMS): </b>US_RMS.txt<br>
 
-#Results
+# Results
 <b>Results reported in the paper are summarized in the file: </b>Results.xlsx<br>
 
 # Dependencies
