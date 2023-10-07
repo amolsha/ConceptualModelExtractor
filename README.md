@@ -16,6 +16,11 @@ Reduction	# of tokens in user story
 #of tokens covered by relations (excluding stopword tokens)	
 #of stopword tokens in user story	Coverage	Remarks
 
+# Dependencies
+Java: openjdk version "17.0.3" 2022-04-19, OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7)
+StanfordCoreNLP: stanford-corenlp-4.5.4 
+ApachePOI: poi-bin-5.2.3
+
 # Executing the program
 # Command Line
 D:\Amol\docs\Softwares\Eclipse\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre\bin\javaw.exe
