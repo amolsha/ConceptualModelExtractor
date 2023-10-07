@@ -16,6 +16,13 @@ Reduction	# of tokens in user story	<br>
 #of tokens covered by relations (excluding stopword tokens)	<br>
 #of stopword tokens in user story	Coverage	Remarks <br>
 
+#DataSets
+<b>Library Management System (LMS): </b>US_LMS.txt<br>
+<b>Restaurant Management System (RMS): </b>US_RMS.txt<br>
+
+#Results
+<b>Results reported in the paper are summarized in the file: </b>Results.xlsx<br>
+
 # Dependencies
 <b>Java:</b> openjdk version "17.0.3" 2022-04-19, OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7) <br>
 <b>StanfordCoreNLP:</b> stanford-corenlp-4.5.4 <br>
